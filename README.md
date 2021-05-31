@@ -12,10 +12,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -70,7 +68,7 @@ I've learned how to use the srcset and media attributes for images to optmize ne
 
 - Start using Mobile First approach.
 - Learn more about semantics and  accessibility.
-- Learn further about srcset.
+- Learn further about how to use srcset.
 
 
 ## Author
